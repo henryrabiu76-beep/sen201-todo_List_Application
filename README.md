@@ -1,7 +1,7 @@
 ## Author
 ### Name:Rabiu Henry Kehinde
 ### Matric No:24/15433
-### Department:Computer Science
+### Department:software engineering 
 ### Course Code: SEN201
 ### Level: 200Level
 ## Project Overview
